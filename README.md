@@ -40,7 +40,7 @@ Admin Panel -> Agents -> Departments
 
 - System Administrators
 
-![adding deps](./adding-departments)
+![adding deps](./adding-departments.png)
 
 ## Configure Teams
 
