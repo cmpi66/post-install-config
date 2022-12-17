@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Creating teams
 - Creating departments
 
-Now that we have osTicket installed let's configure it specific for our organization.
+Now that we have osTicket installed let's configure it for our organization.
 
 ## Configure Roles
 
